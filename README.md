@@ -36,8 +36,8 @@ Each file can be run directly with Python:
     python intro_cyber.py
     python hash_map_dfs.py
     python find_missing_num.py
+    python data_structures.py
 
----
 ## Directory Scripts
 
 **big_o_comparison.py**: Compares linear search vs constant-time dictionary lookup for finding last names.
@@ -53,3 +53,4 @@ Each file can be run directly with Python:
 **nested_loop_big_o.py**: Checks if a full name exists using nested loops (demonstrates O(n^2) complexity).
 **sum_num.py**: Calculates the sum of a list of numbers.
 **viral_spread.py**: Models how a viral post spreads among followers using a power function.
+**data_structures.py**: Demonstrates searching for a value across multiple Python data structures (list, tuple, set, dict, queue, stack) using a unified test case.
