@@ -37,6 +37,7 @@ Each file can be run directly with Python:
     python hash_map_dfs.py
     python find_missing_num.py
     python data_structures.py
+    python valid_parenthasis.py
 
 ## Directory Scripts
 
@@ -54,3 +55,4 @@ Each file can be run directly with Python:
 **sum_num.py**: Calculates the sum of a list of numbers.
 **viral_spread.py**: Models how a viral post spreads among followers using a power function.
 **data_structures.py**: Demonstrates searching for a value across multiple Python data structures (list, tuple, set, dict, queue, stack) using a unified test case.
+**valid_parenthasis.py**: Checks if a string of parentheses/brackets is valid using a stack. Includes efficient and explanatory versions with edge case tests.
