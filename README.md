@@ -38,6 +38,8 @@ Each file can be run directly with Python:
     python find_missing_num.py
     python data_structures.py
     python valid_parenthasis.py
+    python travelling_salesman.py
+    python genetic_algo.py
 
 ## Directory Scripts
 
@@ -56,3 +58,5 @@ Each file can be run directly with Python:
 **viral_spread.py**: Models how a viral post spreads among followers using a power function.
 **data_structures.py**: Demonstrates searching for a value across multiple Python data structures (list, tuple, set, dict, queue, stack) using a unified test case.
 **valid_parenthasis.py**: Checks if a string of parentheses/brackets is valid using a stack. Includes efficient and explanatory versions with edge case tests.
+**travelling_salesman.py**: Solves the Travelling Salesman Problem (TSP) using three approaches: brute force, nearest neighbor heuristic, and a simple genetic algorithm. Shows example usage and compares results.
+**genetic_algo.py**: Demonstrates a genetic algorithm approach to solving optimization problems, such as TSP or other combinatorial tasks.

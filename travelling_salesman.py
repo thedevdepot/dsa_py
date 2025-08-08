@@ -4,7 +4,9 @@ import math
 
 # Travelling Salesman Problem (TSP) - 3 Solution Approaches
 
-
+def format_distance(dist):
+    """Format distance to 2 decimal points."""
+    return f"{dist:.2f}"
 # Example set of cities (coordinates)
 cities = {
     'A': (0, 0),
