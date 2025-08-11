@@ -40,3 +40,4 @@ python data_structures.py
 python valid_parenthasis.py
 python travelling_salesman.py
 python genetic_algo.py
+python dsa_merge.py
